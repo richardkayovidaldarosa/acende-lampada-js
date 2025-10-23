@@ -4,6 +4,6 @@ function acender(){
 }
 
 function apagar(){
-    //document.getElementById("lampada").src="on.png"
+    //document.getElementById("lampada").src="off.png"
     console.log("Off")
 }
